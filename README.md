@@ -1,5 +1,3 @@
-### Hi there 👋
-
 
 <!--
 **Bensonqjy/Bensonqjy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm Your Name
+### Hi there! 👋 I'm Your Benson
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in technology and open-source projects. Here, you'll find some of my latest projects and contributions. Feel free to explore, fork, and star any repositories that catch your eye.
 

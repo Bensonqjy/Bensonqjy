@@ -12,7 +12,7 @@
 <!-- Contact Information -->
 ### Contact
 - Email: benson.quah.sg@gmail.com
-- LinkedIn: [Benson Quah](https://www.linkedin.com/in/bensonquah)
+- LinkedIn: [Benson Quah](https://www.linkedin.com/in/bensonqjy)
   
 <!-- GitHub Trophies -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bensonqjy&" alt="GitHub Trophies" /></p>
